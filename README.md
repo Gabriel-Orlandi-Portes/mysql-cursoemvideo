@@ -43,12 +43,11 @@ Cada aula possui sua própria pasta, contendo anotações e exemplos do que foi 
 
 mysql-cursoemvideo/
 │
-├── aula01/ 
-├── aula02/ 
-├── aula03/
-├── aula04/ 
-├── ...
-│
+├── src/
+│   ├── aula01/
+│   ├── aula02/
+│   ├── aula03/
+│   └── ...
 │
 └── README.md
 
