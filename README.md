@@ -41,6 +41,7 @@ O curso é composto por **16 aulas**, abordando temas como:
 
 Cada aula possui sua própria pasta, contendo anotações e exemplos do que foi aprendido.
 
+```text
 mysql-cursoemvideo/
 ├── src/
 │   ├── aula01/
@@ -48,6 +49,7 @@ mysql-cursoemvideo/
 │   ├── aula03/
 │   └── ...
 └── README.md
+```
 
 
 
