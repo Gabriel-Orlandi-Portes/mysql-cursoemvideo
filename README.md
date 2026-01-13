@@ -1,19 +1,19 @@
 # 🐬 Curso de MySQL – Curso em Vídeo (40 Horas)
 
-Repositório com anotações, exemplos e exercícios desenvolvidos durante o curso gratuito **MySQL [40 Horas]**, do **Curso em Vídeo**, ministrado pelo professor **Gustavo Guanabara**.
+Repositório com anotações, exemplos e exercícios desenvolvidos durante o curso gratuito **MySQL [40 Horas]**, do **Curso em Vídeo**.
 
-Este repositório tem como foco o estudo de **bancos de dados relacionais**, utilizando **MySQL** e **SQL**, servindo também como **portfólio pessoal de aprendizado**.
+Este repositório tem como foco o estudo de **bancos de dados relacionais**, utilizando **MySQL**, servindo também como **portfólio pessoal de aprendizado**.
 
 ---
 
 ## 🎯 Objetivo
 
-Consolidar os conhecimentos adquiridos em SQL e banco de dados relacional por meio de anotações, exemplos práticos e exercícios, organizados de forma clara e progressiva.
+Consolidar os conhecimentos adquiridos em banco de dados relacional por meio de anotações, exemplos práticos e exercícios, organizados de forma clara e progressiva.
 
 Ao longo do repositório, são registrados:
 
 - Conceitos teóricos fundamentais
-- Comandos SQL básicos e intermediários
+- Comandos básicos e intermediários
 - Exercícios práticos desenvolvidos durante as aulas
 - Observações e aprendizados pessoais
 
@@ -44,7 +44,7 @@ O curso é composto por **16 aulas**, abordando os seguintes temas:
 
 Cada aula possui sua própria pasta, contendo anotações e exemplos relacionados ao conteúdo estudado.
 
-```text
+```
 mysql-cursoemvideo/
 ├── src/
 │   ├── aula01/
@@ -52,3 +52,19 @@ mysql-cursoemvideo/
 │   ├── aula03/
 │   └── ...
 └── README.md
+```
+
+---
+
+## ▶️ Como Executar
+
+Os arquivos e comandos SQL deste repositório podem ser utilizados para estudo e prática por meio das seguintes ferramentas:
+- MySQL Workbench
+- DBeaver
+- Terminal MySQL
+
+---
+
+## 📝 Observação
+
+Este projeto possui finalidade educacional e segue o conteúdo apresentado no curso gratuito do Curso em Vídeo.
