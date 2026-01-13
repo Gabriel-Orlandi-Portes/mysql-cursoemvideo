@@ -66,6 +66,7 @@ Exemplo:
 ```sql
 SELECT * FROM clientes;
 
+---
 
 📈 Evolução do Aprendizado
 
